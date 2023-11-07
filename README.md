@@ -2,8 +2,6 @@
 
 I'm [Youssef KANJAA](https://www.linkedin.com/in/youssef-kanjaa/), a passionate programmer and open-source enthusiast.
 
-![Profile Picture](https://github.com/YoussefKanjaa/YoussefKanjaa/raw/main/github-header.jpg)
-
 - 🌱 I'm currently learning and working with a wide range of technologies, including HTML, CSS, Tailwind CSS, JavaScript, Vue.js, Python, Flask, Django, Java, Kotlin, PHP, Laravel, React, Rust, Swing, and Flutter.
 - 💬 Ask me about programming, technology, or any other interesting topics.
 - 📫 How to reach me: [Your Email](mailto:youremail@example.com)
