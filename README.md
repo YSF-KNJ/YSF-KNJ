@@ -4,7 +4,7 @@ I'm [Youssef KANJAA](https://www.linkedin.com/in/youssef-kanjaa/), a passionate 
 
 - 😄 Pronouns: He/Him
   
-- 🌱 I'm currently learning and working with a wide range of technologies, including HTML, CSS, Tailwind CSS, JavaScript, Vue.js, Python, Flask, Django, Java, Kotlin, PHP, Laravel, React, Rust, Swing, and Flutter.
+- 🌱 I'm currently learning and working with a wide range of technologies, including HTML, CSS, Tailwind CSS, JavaScript, Vue.js, React, Python, Flask, Django, Java, Swing, Kotlin, PHP, Laravel, Rust and Flutter.
   
 - 💬 Ask me about programming, technology, or any other interesting topics.
   
