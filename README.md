@@ -15,3 +15,6 @@ I'm [Youssef KANJAA](https://www.linkedin.com/in/youssef-kanjaa/), a passionate 
 - 📂 My GitHub projects: [GitHub Repositories](https://github.com/YSF-KNJ?tab=repositories)
   
 - 💼 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/youssef-kanjaa/)
+
+- 🫂 check out my friend [@YourFriendsUsername](https://github.com/YourFriendsUsername). He is an awesome developer!
+ 
